@@ -4,7 +4,7 @@ Welcome to the website for my Twine game, created for the course IASC 1P04 at Br
 
 ## Playtest
 
-Playtest my game [here](playtest/playtest)
+Playtest my game [here](https://agnesh11.github.io/IASC-1P04/prototype/TheAftermath.html)
 
 ## Game Proposal Document
 
