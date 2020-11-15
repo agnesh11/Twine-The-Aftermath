@@ -2,7 +2,7 @@
 ## Playtest
 
 ## Play the game
-Play the game prototype [here](..prototype/TheAftermath.html)
+Play the game prototype [here](../prototype/TheAftermath.html)
 
 ## Complete the playtest survey
 
