@@ -10,4 +10,4 @@ Playtest my game [here](playtest/playtest)
 
 Read the documentation for my game [here]
 
-## Play the prototype [here](https://agnesh11.github.io/IASC-1P04/prototype/TheAftermath.html)
+## Play the Game [here] (https://agnesh11.github.io/IASC-1P04/prototype/TheAftermath.html)
