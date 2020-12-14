@@ -10,4 +10,4 @@ Playtest my game [here](playtest/playtest)
 
 Read the documentation for my game [here]
 
-## Play the Game [here] (TheAftermath.html)
+## Play the Game [here](TheAftermath.html)
